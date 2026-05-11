@@ -15,10 +15,10 @@ Sistema de gestión de catálogo audiovisual desarrollado en C++ como proyecto a
 - **Estructuras:** Uso de `structs` anidados y arreglos estáticos.
 
 ## 📥 Instalación y Ejecución
-1. Clona el repositorio:
-   ```bash
-[   git clone [https://github.com/tu-usuario/cinema-manager-cpp.git](https://github.com/tu-usuario/cinema-manager-cpp.git)](https://github.com/silvanamolano17-del/cinema-management-cpp./edit/main/README.md)
 
+1. **Clona el repositorio:**
+   ```bash
+   git clone [https://github.com/silvanamolano17-del/cinema-management-cpp.git](https://github.com/silvanamolano17-del/cinema-management-cpp.git)
 
 Compila el código:
 g++ -o cinema_manager src/main.cpp
