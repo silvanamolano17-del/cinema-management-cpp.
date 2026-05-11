@@ -1,0 +1,14 @@
+El Patrón del Mal, 1,Biografía
+La Reina del Flow, 2,Musical
+Escobar El Patrón del Mal, 1,Crimen
+La Niña, 1,Drama
+Sin Senos No Hay Paraíso, 1,Drama
+Rosario Tijeras, 1,Acción
+El Capo, 3,Crimen
+Café con Aroma de Mujer, 1,Romance
+La Ley del Corazón, 2,Drama
+Los Morales, 2,Musical
+ao, 1,misterio
+betty la fea, 2, romance
+barbie, 2, drama
+love, 2, amor
